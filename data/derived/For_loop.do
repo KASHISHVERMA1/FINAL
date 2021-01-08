@@ -1,4 +1,6 @@
-/*repeating tasks using “for” loops*/
+clear all
+
+*repeating tasks using “for” loops
 
 forvalues i = 1/6 {
      display `i'

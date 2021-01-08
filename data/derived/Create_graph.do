@@ -1,4 +1,6 @@
-/* Creating a Pie chart*/
+clear all
+
+* Creating a Pie chart
 
 sysuse nlsw88.dta
 
